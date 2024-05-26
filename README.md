@@ -8,4 +8,4 @@
 - [Click Here](https://github.com/VennDev/Example-ItemsAPI)
 
 # Error
-`All errors have been fixed`
+All errors have been fixed for PHP 7.0-8.0
